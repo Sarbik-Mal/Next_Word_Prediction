@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+
+models/
+*.h5
+*.pickle
+
+.DS_Store
+*.log
